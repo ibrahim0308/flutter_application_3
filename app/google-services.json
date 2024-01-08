@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "182327174924",
+    "project_id": "macfit-4e657",
+    "storage_bucket": "macfit-4e657.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:182327174924:android:3e2fb077617ceef8ed8b29",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLvLymRLHr4fDiRnTQRh8dz40J9vpT7cI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
